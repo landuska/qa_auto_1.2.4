@@ -24,13 +24,8 @@
 
 ## Reset --soft (Sekond)
 
-* commit 422f2abaed1dbcac50c1adc0d092195033ac4cf6 (HEAD -> main)
-| Author: Landysh Khusaenova <landysh.kg@gmail.com>
-| Date:   Thu Oct 12 20:14:03 2023 +0200
-|
-|     added file third.md
-|
-* commit a1bf2bfb86be07d1cf4a351cfeca5a12ce2c79be
+$ git log --graph --all 
+* commit a1bf2bfb86be07d1cf4a351cfeca5a12ce2c79be (HEAD -> main)
 | Author: Landysh Khusaenova <landysh.kg@gmail.com>
 | Date:   Thu Oct 12 20:13:17 2023 +0200
 |
@@ -45,6 +40,16 @@
 * commit 26b2d85e07d4806af118739beeadfd5e23ba7caa (origin/main, origin/HEAD)
 | Author: Oksana M <36515885+Melnioks@users.noreply.github.com>
 | Date:   Mon Oct 9 09:50:24 2023 +0200
+|
+|     Update your-task-here.md
+|
+* commit 93e058d3321dba27a85c21668c2d16de96eb05fe
+| Author: ommelnikova <115581444+ommelnikova@users.noreply.github.com>
+| Date:   Thu Oct 20 08:42:47 2022 +0200
+|
+|     Update your-task-here.md
+|
+* commit 685ce8d7bbcb6780cc0fcde65ea418bf9c880682
 
 ## Reset --soft (Third)
 
@@ -87,13 +92,8 @@ HEAD is now at 422f2ab added file third.md
 
 ## Reset (Sekond)
 
-* commit 422f2abaed1dbcac50c1adc0d092195033ac4cf6 (HEAD -> main)
-| Author: Landysh Khusaenova <landysh.kg@gmail.com>
-| Date:   Thu Oct 12 20:14:03 2023 +0200
-|
-|     added file third.md
-|
-* commit a1bf2bfb86be07d1cf4a351cfeca5a12ce2c79be
+$ git log --graph --all 
+* commit a1bf2bfb86be07d1cf4a351cfeca5a12ce2c79be (HEAD -> main)
 | Author: Landysh Khusaenova <landysh.kg@gmail.com>
 | Date:   Thu Oct 12 20:13:17 2023 +0200
 |
@@ -112,6 +112,12 @@ HEAD is now at 422f2ab added file third.md
 |     Update your-task-here.md
 |
 * commit 93e058d3321dba27a85c21668c2d16de96eb05fe
+| Author: ommelnikova <115581444+ommelnikova@users.noreply.github.com>
+| Date:   Thu Oct 20 08:42:47 2022 +0200
+|
+|     Update your-task-here.md
+|
+* commit 685ce8d7bbcb6780cc0fcde65ea418bf9c880682
 
 ## Reset (Third)
 
